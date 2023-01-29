@@ -24,12 +24,12 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Kota
 role: Yale University | Machine Learning Researcher
 highlight_name: true
 title: Tarun Kota
-first_name: Alice
-email: ""
+first_name: Tarun
+email: "Tarun.Kota@Yale.edu"
 ---
 Hi my name is Tarun Kota and I'm studying Computer Science and Data Science at Yale University.
 {style="text-align: justify;"}
