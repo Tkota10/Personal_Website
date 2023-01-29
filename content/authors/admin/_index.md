@@ -1,5 +1,5 @@
 ---
-avatar_filename: img_4682-3.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include applied machine learning, distributed systems
   and wellness tech.
 interests: []
@@ -24,12 +24,12 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Kota
+last_name: Wu
 role: Yale University | Machine Learning Researcher
 highlight_name: true
 title: Tarun Kota
-first_name: Tarun
-email: "Tarun.Kota@Yale.edu"
+first_name: Alice
+email: ""
 ---
 Hi my name is Tarun Kota and I'm studying Computer Science and Data Science at Yale University.
 {style="text-align: justify;"}
