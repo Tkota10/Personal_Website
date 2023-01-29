@@ -1,7 +1,6 @@
 ---
 title: Astrophysics Publication
-summary: 
-This paper describes the star detection method I created and the 16 nearby stars discovered during the implementations of the method.
+summary: This paper describes the star detection method I created and the 16 nearby stars discovered during the implementations of the method.
 tags:
   - Publication
 date: '2022-03-12T00:00:00Z'
