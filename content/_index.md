@@ -49,10 +49,6 @@ sections:
           date_end: '2022-07-01'
           description: |2-
               Responsibilities include:
-	Discovered 16 stars through creating a novel star detection method that applied machine learning methods to the CatWISE database
-Wrote custom python and SQL scripts to collect, transform, clean, and store 900,000+ stellar data, increasing efficiency of analysis
-Oversaw & mentored a team of 4 undergraduate and high school researchers on their own research projects
-	Presented findings at the American Astronomical meeting as part of an international press conference (only high school presenter) 
 	
 
         - title: Professor of Semiconductor Physics
