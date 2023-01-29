@@ -1,6 +1,6 @@
 ---
 title: Tarun Kota
-role: Professor of Artificial Intelligence
+role: Student at Yale University | Machine Learning Researcher
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
