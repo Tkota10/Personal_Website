@@ -40,19 +40,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Lead Researcher Project Manager
+          company: Caltech Infrared Processing Analysis Center
           company_url: ''
           company_logo: org-gc
           location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          date_start: '2020-08-01'
+          date_end: '2022-07-01'
           description: |2-
               Responsibilities include:
+‒	Discovered 16 stars through creating a novel star detection method that applied machine learning methods to the CatWISE database
+‒	Wrote custom python and SQL scripts to collect, transform, clean, and store 900,000+ stellar data, increasing efficiency of analysis
+‒	Oversaw & mentored a team of 4 undergraduate and high school researchers on their own research projects
+‒	Presented findings at the American Astronomical meeting as part of an international press conference (only high school presenter) 
+‒	Publication: Kota, T., Kirkpatrick, J.~D., Caselden, D., et al.,” Discovery of 16 new members of the Solar Neighborhood” (2022), Astronomical Journal, DOI:10.3847/1538-3881/ac4713 
 
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
