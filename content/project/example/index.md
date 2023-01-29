@@ -1,9 +1,10 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Astrophysics Publication
+summary: 
+This paper describes the star detection method I created and the 16 nearby stars discovered during the implementations of the method.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Publication
+date: '2022-03-12T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
