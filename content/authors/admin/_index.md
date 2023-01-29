@@ -1,6 +1,6 @@
 ---
 title: Tarun Kota
-role: Student at Yale University | Machine Learning Researcher
+role: Yale University | Machine Learning Researcher
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
