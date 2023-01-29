@@ -1,8 +1,7 @@
 ---
-title: Tarun Kota
-role: Yale University | Machine Learning Researcher
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: img_4682-3.jpg
+bio: My research interests include applied machine learning, distributed systems
+  and wellness tech.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -36,7 +35,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: Yale University | Machine Learning Researcher
 highlight_name: true
+title: Tarun Kota
 first_name: Alice
 email: ""
 ---
