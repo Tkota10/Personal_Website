@@ -1,7 +1,6 @@
 ---
 avatar_filename: avatar.jpg
-bio: My research interests include applied machine learning, distributed systems
-  and wellness tech.
+bio: ""
 interests: []
 social:
   - icon: envelope
