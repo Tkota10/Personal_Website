@@ -18,8 +18,15 @@ social:
 organizations: []
 education:
   courses:
-    - course: BS, Computer Science; BA, Statistics & Data Science
+    - course: BS in Computer Science
       institution: Yale University
+      year: ""
+    - course: BA in Statistics & Data Science
+      institution: Yale University
+      year: 2025
+    - course: HS Diploma
+      institution: Eastview High School
+      year: 2022
 superuser: true
 status:
   icon: ☕️
