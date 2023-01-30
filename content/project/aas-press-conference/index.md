@@ -6,8 +6,13 @@ summary: A press conference at the American Astronomical Meeting where I talked
   education system
 draft: false
 featured: false
+tags:
+  - Service
+links:
+  - name: Video
+    url: https://www.youtube.com/watch?v=9i44ws0Te5s
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
