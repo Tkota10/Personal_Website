@@ -132,6 +132,7 @@ sections:
     id: projects
     content:
       title: Projects
+      subtitle: Places my work has been featured in ranging from scientific publications to media outlets!
       filters:
         folders:
           - project
