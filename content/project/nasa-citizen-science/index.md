@@ -8,8 +8,8 @@ featured: false
 tags:
   - Service
 links:
-  - name: https://science.nasa.gov/science-news/citizenscience/citizen-science-team-led-by-high-school-student-discover-16-brown-dwarfs
-    url: Article
+  - name: Article
+    url: https://science.nasa.gov/science-news/citizenscience/citizen-science-team-led-by-high-school-student-discover-16-brown-dwarfs
 image:
   filename: ""
   focal_point: ""
