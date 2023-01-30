@@ -20,10 +20,10 @@ education:
   courses:
     - course: BS in Computer Science
       institution: Yale University
-      year: ""
+      year: 2026
     - course: BA in Statistics & Data Science
       institution: Yale University
-      year: 2025
+      year: 2084
     - course: HS Diploma
       institution: Eastview High School
       year: 2022
