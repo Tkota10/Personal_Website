@@ -10,6 +10,7 @@ sections:
     content:
       username: admin
       text:
+      education: education
 
   - block: features
     content:
