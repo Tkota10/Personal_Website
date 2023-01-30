@@ -1,6 +1,7 @@
 ---
-
 url_pdf: ""
+title: Discovery of 16 New Members of the Solar Neighborhood Using Proper
+  Motions from CatWISE2020
 date: 2022-03-12T00:00:00.000Z
 summary: Work done at Caltech Infrared Processing Analysis Center
 position: center
@@ -8,7 +9,6 @@ url_video: ""
 tags:
   - Publications
 external_link: ""
-title: Discovery of 16 new members of the solar neighborhood
 links:
   - name: Paper
     url: https://iopscience.iop.org/article/10.3847/1538-3881/ac4713
