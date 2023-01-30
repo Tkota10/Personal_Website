@@ -2,7 +2,7 @@
 slides: example
 url_pdf: ""
 date: 2022-03-12T00:00:00Z
-summary: Work done at Caltech Infrared Processing Analysis Center
+summary: |2- Work done at Caltech Infrared Processing Analysis Center
 url_video: ""
 tags:
   - Publication
