@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-date: 2022-03-12T00:00:00Z
+date: 2022-03-12T00:00:00.000Z
 summary: Work done at Caltech Infrared Processing Analysis Center
 url_video: ""
 tags:
@@ -10,13 +10,11 @@ external_link: ""
 url_slides: ""
 title: Discovery of 16 new members of the solar neighborhood
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - name: Paper
+    url: https://iopscience.iop.org/article/10.3847/1538-3881/ac4713
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
 url_code: ""
 ---
 **Abstract:**
