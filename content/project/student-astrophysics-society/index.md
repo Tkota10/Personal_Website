@@ -1,6 +1,8 @@
 ---
 title: Student Astrophysics Society
 date: 2023-01-30T02:50:21.136Z
+summary: Work I did with creating a platform for people to meet other people
+  interested in astrophysics
 draft: false
 featured: false
 links:
