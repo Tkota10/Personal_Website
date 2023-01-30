@@ -5,7 +5,7 @@ date: 2022-03-12T00:00:00.000Z
 summary: Work done at Caltech Infrared Processing Analysis Center
 url_video: ""
 tags:
-  - Publication
+  - Publications
 external_link: ""
 url_slides: ""
 title: Discovery of 16 new members of the solar neighborhood
