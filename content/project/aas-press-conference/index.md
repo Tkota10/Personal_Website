@@ -4,6 +4,7 @@ date: 2023-01-30T02:57:28.705Z
 summary: A press conference at the American Astronomical Meeting where I talked
   about my research and possible approaches to solving inequities in our
   education system
+  {style="text-align: justify;"}
 draft: false
 featured: false
 tags:
