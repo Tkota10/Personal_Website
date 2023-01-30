@@ -5,6 +5,8 @@ summary: An article featuring my work with founding a research group of citizen
   scientists—everyday people interested in researching the cosmos.
 draft: false
 featured: false
+tags:
+  - Service
 links:
   - name: https://science.nasa.gov/science-news/citizenscience/citizen-science-team-led-by-high-school-student-discover-16-brown-dwarfs
     url: Article
