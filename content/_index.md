@@ -41,7 +41,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Lead Researcher Project Manager
+        - title: Lead Researcher | Project Manager
           company: Caltech Infrared Processing Analysis Center
           company_url: ''
           company_logo: 
@@ -49,10 +49,13 @@ sections:
           date_start: '2020-08-01'
           date_end: '2022-07-01'
           description: |2-
-              Responsibilities include:
-              * Analysing
-              * Modelling
-              * Deploying
+              Research Responsibilities:
+              * Designed a supervised machine learning model that employed a binary classification model to detect proper motion brown dwarfs.
+              * Preprocessed ~900,000,000 data instances of unstructured data from CatWISE and refactored data to feed into machine learning model.
+              * Iterated training process 
+              
+              Project Manager Responsibilities:
+              
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
