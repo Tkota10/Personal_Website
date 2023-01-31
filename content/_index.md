@@ -56,6 +56,9 @@ sections:
               
               
               Project Manager Responsibilities:
+              *sdfsfsd
+              *sdfdsf
+              *sdsfs
               
         - title: Professor of Semiconductor Physics
           company: University X
