@@ -44,7 +44,7 @@ sections:
         - title: Lead Researcher Project Manager
           company: Caltech Infrared Processing Analysis Center
           company_url: ''
-          company_logo: org-gc
+          company_logo: download
           location: California
           date_start: '2020-08-01'
           date_end: '2022-07-01'
