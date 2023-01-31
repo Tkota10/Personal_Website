@@ -52,13 +52,11 @@ sections:
               Research Responsibilities:
               * Designed a supervised machine learning model that employed a binary classification model to detect proper motion brown dwarfs.
               * Preprocessed ~900,000,000 data instances of unstructured data from CatWISE and refactored data to feed into machine learning model.
-              * After 5-10 iterations of training our classifier, deployed ml model on CatWISE, leading to a discovery of 16 new brown dwarfs.
-              
-              
+              * After 5-10 iterations of training our classifier, deployed ml model on CatWISE, leading to a discovery of 16 new brown dwarfs. 
               Project Manager Responsibilities:
-              *sdfsfsd
-              *sdfdsf
-              *sdsfs
+              * sdfsfsd
+              * sdfdsf
+              * sdsfs
               
         - title: Professor of Semiconductor Physics
           company: University X
