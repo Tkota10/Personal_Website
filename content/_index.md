@@ -52,11 +52,12 @@ sections:
               Research Responsibilities:
               * Designed a supervised machine learning model that employed a binary classification model to detect proper motion brown dwarfs.
               * Preprocessed ~900,000,000 data instances of unstructured data from CatWISE and refactored data to feed into machine learning model.
-              * After 5-10 iterations of training our classifier, deployed ml model on CatWISE, leading to a discovery of 16 new brown dwarfs. 
+              * Collaborated with cross-functional teams to integrate and deploy ML model on CatWISE, leading to a discovery of 16 new brown dwarfs. 
+              * Communicated technical results to both technical and non-technical during weekly lab meetings
               Project Manager Responsibilities:
-              * sdfsfsd
-              * sdfdsf
-              * sdsfs
+              * Cofounded a research group comprised solely of high schoolers and undergraduate students that focused on building a stellar motion detector.
+              * Mentored 5+ junior researchers through their own research projects, resulting in two publications.
+              
               
         - title: Professor of Semiconductor Physics
           company: University X
