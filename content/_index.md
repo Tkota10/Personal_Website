@@ -53,9 +53,7 @@ sections:
               * Designed a supervised machine learning model that employed a binary classification model to detect proper motion brown dwarfs.
               * Preprocessed ~900,000,000 data instances of unstructured data from CatWISE and refactored data to feed into machine learning model.
               * Collaborated with cross-functional teams to integrate and deploy ML model on CatWISE, leading to a discovery of 16 new brown dwarfs. 
-              * Communicated technical results to both technical and non-technical during weekly lab meetings
-              |
-              **Project Manager Responsibilities**:
+              * Communicated technical results to both technical and non-technical during weekly lab meetings              
               * Cofounded a research group comprised solely of high schoolers and undergraduate students that focused on building a stellar motion detector.
               * Mentored 5+ junior researchers through their own research projects, resulting in two publications.
               
