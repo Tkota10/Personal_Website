@@ -37,13 +37,12 @@ title: Tarun Kota
 first_name: Tarun
 email: ""
 ---
-Hey! My name is Tarun, and I am a freshman at Yale University studying Computer Science (BS) and Statistics & Data Science (BA). Broadly, I’m interested in leveraging data and software systems to build products that help people live happier lives, especially in the Health & Wellness space. At the moment, I am working at the Aneja lab (Yale) on applying deep learning methods to heart image data in order to develop a reliable biomarker to predict heart age. In the past, I have worked at the Kirkpatrick lab (Caltech IPAC) on leveraging supervised learning methods to detect previously undiscovered brown dwarfs and the Metchev Lab (Western) on determining observations for an In-space robotic telescope. In addition to my scientific research, I worked with the Tepper School of Business (CMU) to analyze lineup efficiency during the 2021-2022 NBA season and key coaching decisions during the NBA finals.
+Hey! My name is Tarun, and I am a freshman at Yale University studying Computer Science (BS) and Statistics & Data Science (BA). Broadly, I’m interested in leveraging data and software systems to build products that help people live happier lives, especially in the **Health & Wellness space**. At the moment, I am working at the Aneja lab (Yale) on applying deep learning methods to heart image data in order to develop **a reliable biomarker to predict heart age**. In the past, I have worked at the Kirkpatrick lab (Caltech IPAC) on leveraging supervised learning methods to **detect previously undiscovered low-luminosity brown dwarfs** and the Metchev Lab (Western) on determining observations for an In-space robotic telescope. In addition to my scientific research, I worked with the Tepper School of Business (CMU) to analyze lineup efficiency during the 2021-2022 NBA season and **key coaching decisions during the NBA finals.**
 
 Outside of technical work, I am a part of Yale’s Club Squash team, Yale Fashion house and Rangeela, one of Yale’s Indian dance groups. 
 
 For more information about my experiences, please check out the experiences and media section of this website. Feel free to contact me for more information regarding any of my interests or experiences at Tarun.Kota@Yale.edu
 
-\
-\
+
 
 {style="text-align: justify;"}
