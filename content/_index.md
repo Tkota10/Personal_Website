@@ -86,20 +86,20 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
-          description: 'One of 3 students in the United States awarded based on excellence in astronomy research. I got an all-expense paid trip to New Mexico and free personal telescope'
+          date_start: '2021-03-25'
+          description: 'One of 3 winners in the United States and criterion is based on excellence in astronomy research. I got an all-expense paid trip to New Mexico and (more importantly!) a free personal telescope'
           organization: The Astronomical League
           organization_url: https://www.astroleague.org
           title: National Young Astronomer Award
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2021-05-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
+          organization: 
+          organization_url: https://www.societyforscience.org/isef/
           title: Intel ISEF Finalist
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
