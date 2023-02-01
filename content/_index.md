@@ -73,12 +73,11 @@ sections:
           date_start: '2020-08-01'
           date_end: '2022-07-01'
           description: |2-
-              **Research responsibilities**:
+              **Research and Managerial responsibilities:**:
               - Designed a supervised machine learning framework that employed a binary classification model to detect proper motion brown dwarfs.
               - Preprocessed ~900,000,000 data instances of unstructured data from CatWISE and refactored data to feed into machine learning model.
               - Collaborated with cross-functional teams to integrate and deploy ML model on CatWISE, leading to a discovery of 16 new brown dwarfs. 
-              - Communicated technical results to both technical and non-technical during weekly lab meetings
-              **Project Manager responsibilities**              
+              - Communicated technical results to both technical and non-technical during weekly lab meetings            
               - Cofounded a research group comprised solely of high schoolers and undergraduate students that focused on building a stellar motion detector.
               - Mentored 5+ junior researchers through their own research projects, resulting in two publications.
               
@@ -202,8 +201,8 @@ sections:
           tag: Publications
         - name: Service
           tag: Service
-        - name: Other
-          tag: Other
+        - name: Personal
+          tag: Personal
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
