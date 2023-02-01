@@ -14,7 +14,7 @@ social:
     link: https://www.linkedin.com/in/tarun-kota-9216a01b0/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Tarun_Kota_Resume.pdf
 organizations: []
 education:
   courses:
