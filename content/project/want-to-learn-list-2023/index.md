@@ -8,6 +8,9 @@ featured: false
 tags:
   - Other
 external_link: ""
+links:
+  - url: https://www.notion.so/Skills-2023-1813a57d47aa480096cc516527343438
+    name: Link
 image:
   filename: ""
   focal_point: Smart
