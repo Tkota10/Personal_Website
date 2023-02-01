@@ -67,7 +67,7 @@ sections:
           date_start: '2022-06-01'
           date_end: ''
           description: |2-
-            **Responsibilities**
+            **Research responsibilities**:
             - Conducted feature analysis on 2022-2023 NBA lineup data to identify pertinent variables to lineup efficiency and team success
             - Studied coaches substitutions through stackleberg equilbrium analysis, analyzing the efficiacy of decisions made
             - Created a deliverable that contained a case study of the NBA Finals Matchup (warriors vs. celtics), highlighting key coaching decisions and contributors.
