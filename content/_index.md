@@ -143,7 +143,6 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: contact
-     id: contact
      content:
        title: Contact
        subtitle:
