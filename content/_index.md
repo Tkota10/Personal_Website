@@ -98,7 +98,7 @@ sections:
           date_end: ''
           date_start: '2021-05-01'
           description: First person in school district's history to be a finalist | Competed in the category of Physics and Astronomy
-          organization: 
+          organization: Regeneron
           organization_url: https://www.societyforscience.org/isef/
           title: Regeneron ISEF Finalist
           url: https://abstracts.societyforscience.org/Home/FullAbstract?ISEFYears=0%2C&Category=Any%20Category&AllAbstracts=True&FairCountry=Any%20Country&FairState=Any%20State&ProjectId=20524
