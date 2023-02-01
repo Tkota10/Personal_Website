@@ -89,9 +89,9 @@ sections:
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
+          description: 'One of 3 students in the United States awarded based on excellence in astronomy research. I got an all-expense paid trip to New Mexico and free personal telescope'
+          organization: The Astronomical League
+          organization_url: https://www.astroleague.org
           title: National Young Astronomer Award
           url: ''
         - certificate_url: https://www.edx.org
