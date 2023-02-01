@@ -43,14 +43,14 @@ sections:
       items:
         - title: Lead Researcher | Project Manager
           company: Caltech Infrared Processing Analysis Center
-          company_url: ''
+          company_url: 'https://www.ipac.caltech.edu/'
           company_logo: 
           location: California
           date_start: '2020-08-01'
           date_end: '2022-07-01'
           description: |2-
-              **Research Responsibilities**:
-              * Designed a supervised machine learning model that employed a binary classification model to detect proper motion brown dwarfs.
+              **Research and Managerial responsibilities**:
+              * Designed a supervised machine learning framework that employed a binary classification model to detect proper motion brown dwarfs.
               * Preprocessed ~900,000,000 data instances of unstructured data from CatWISE and refactored data to feed into machine learning model.
               * Collaborated with cross-functional teams to integrate and deploy ML model on CatWISE, leading to a discovery of 16 new brown dwarfs. 
               * Communicated technical results to both technical and non-technical during weekly lab meetings              
@@ -58,14 +58,18 @@ sections:
               * Mentored 5+ junior researchers through their own research projects, resulting in two publications.
               
               
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+        - title: Research intern (Basketball Analytics)
+          company: Carnegie Mellon University, Tepper School of Business
+          company_url: 'https://www.cmu.edu/tepper/'
           company_logo:
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+            **Responsibilities**
+            *sdfs
+            *sdfdsf
+          
     design:
       columns: '2'
   - block: accomplishments
