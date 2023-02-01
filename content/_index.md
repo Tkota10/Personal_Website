@@ -152,5 +152,4 @@ sections:
        # Contact (add or remove contact options as necessary)
        email: Tarun.Kota@Yale.edu
 
-
 ---
