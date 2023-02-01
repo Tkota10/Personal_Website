@@ -1,6 +1,8 @@
 ---
 title: Skill list 2023
+subtitle: ""
 date: 2023-02-01T02:04:07.930Z
+summary: Here are some of things that I’ve been trying to learn in 2023!
 draft: false
 featured: false
 tags:
