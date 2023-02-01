@@ -3,9 +3,6 @@ avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: Tarun.Kota@Yale.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/Tkota10
