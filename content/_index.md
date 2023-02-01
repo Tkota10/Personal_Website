@@ -142,4 +142,15 @@ sections:
       view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: contact
+     id: contact
+     content:
+       title: Contact
+       subtitle:
+       text: |-
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+       # Contact (add or remove contact options as necessary)
+       email: Tarun.Kota@Yale.edu
+
+
 ---
