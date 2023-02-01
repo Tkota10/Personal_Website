@@ -182,8 +182,8 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
-      subtitle: Places my work has been featured in ranging from scientific publications to media outlets!
+      title: Media
+      subtitle: Places my work has been recognized as well some of my personal goals of 2023!
       filters:
         folders:
           - project
