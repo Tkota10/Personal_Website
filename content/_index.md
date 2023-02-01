@@ -151,5 +151,7 @@ sections:
          Lorem ipsum dolor sit sdamet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
        # Contact (add or remove contact options as necessary)
        email: Tarun.Kota@Yale.edu
+     design:
+       columns: '2'
 
 ---
