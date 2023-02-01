@@ -72,13 +72,13 @@ sections:
             - Studied coaches substitutions through stackleberg equilbrium analysis, analyzing the efficiacy of decisions made
             - Created a deliverable that contained a case study of the NBA Finals Matchup (warriors vs. celtics), highlighting key coaching decisions and contributors.
               
-        - title: Research intern (Basketball Analytics)
-          company: Carnegie Mellon University, Tepper School of Business
-          company_url: 'https://www.cmu.edu/tepper/'
+        - title: Research intern 
+          company: Western University, Department of Physics & Astronomy
+          company_url: 'https://physics.uwo.ca/'
           company_logo:
           location: Pittsburgh
-          date_start: '2022-06-01'
-          date_end: ''
+          date_start: '2021-05-01'
+          date_end: '2021-08-23'
           description: |2-
             **Responsibilities**
             - Conducted feature analysis on 2022-2023 NBA lineup data to identify pertinent variables to lineup efficiency and team success
