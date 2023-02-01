@@ -8,6 +8,9 @@ featured: false
 tags:
   - other
 external_link: ""
+links:
+  - url: https://spurious-shrine-68f.notion.site/Reading-List-2023-3bd59cdb490a4a4c9cb3e1993117485a
+    name: List
 image:
   filename: ""
   focal_point: Smart
