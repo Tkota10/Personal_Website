@@ -156,7 +156,7 @@ sections:
     id: projects
     content:
       title: Media
-      subtitle: Places my work has been recognized as well some of my personal goals of 2023!
+      subtitle: Where my work has been recognized as well some of my personal goals of 2023!
       filters:
         folders:
           - project
