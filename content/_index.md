@@ -94,21 +94,21 @@ sections:
           organization_url: https://www.astroleague.org
           title: National Young Astronomer Award
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url:
           date_end: ''
           date_start: '2021-05-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          description: First person in school district's history to be a finalist | Competed in the category of Physics and Astronomy
           organization: 
           organization_url: https://www.societyforscience.org/isef/
-          title: Intel ISEF Finalist
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: Cambridge Workshop on Cool Stars, Stellar Systems and the sun
+          title: Regeneron ISEF Finalist
+          url: https://abstracts.societyforscience.org/Home/FullAbstract?ISEFYears=0%2C&Category=Any%20Category&AllAbstracts=True&FairCountry=Any%20Country&FairState=Any%20State&ProjectId=20524
+        - certificate_url: 
+          date_end: 
+          date_start: '2021-07-01'
+          description: Presnted research conducted at Caltech IPAC | Only 7/520 presenters were high schoolers
+          organization: American Astronomical Society
+          organization_url: https://aas.org/
+          title: Presenter @ American Astronomical Society Meeting 
           url: ''
     design:
       columns: '2'
