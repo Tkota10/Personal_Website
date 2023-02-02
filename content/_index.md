@@ -52,8 +52,8 @@ sections:
           description: |2-
               **Responsibilities:**
 
-              * Conducted feature analysis on 2022-2023 NBA lineup data to identify pertinent variables to lineup efficiency and team success
-              * Studied coaches substitutions through stackleberg equilbrium analysis, analyzing the efficiacy of decisions made
+              * Conducted feature analysis on 2022-2023 NBA lineup data to identify pertinent variables to lineup efficiency and team success.
+              * Studied coaches substitutions through stackleberg equilbrium analysis, analyzing the efficiacy of decisions made.
               * Created a deliverable that contained a case study of the NBA Finals Matchup (warriors vs. celtics), highlighting key coaching decisions and contributors.
            
               
@@ -66,8 +66,8 @@ sections:
           date_end: '2021-08-23'
           description: |2-
             **Responsibilities:**
-            - Led project that focused on determining observation targets for POET, a robotic telescope funded by the Canadian Space Agency
-            - Mined and analyzed data from 10+ astronomical databases to drive optimization and improvement of target selection
+            - Led project that focused on determining observation targets for POET, a robotic telescope funded by the Canadian Space Agency.
+            - Mined and analyzed data from 10+ astronomical databases to drive optimization and improvement of target selection.
             - Proposed and implemented a candidate selection model, considering all the specifications of the telescope, to analyze possible targets.
             - Presented list of 100+ targets to POET leadership, many of which are currently being imaged by the telescope.
           
