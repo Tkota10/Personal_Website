@@ -11,6 +11,8 @@ tags:
 links:
   - name: Video
     url: https://www.youtube.com/watch?v=9i44ws0Te5s
+  - name: Summary
+    url: https://aas.org/sites/default/files/2021-06/AAS238_Wed1_Kota_Info.pdf
 image:
   filename: ""
   focal_point: Smart
